@@ -4,6 +4,7 @@
 Progetto di classificazione binaria su un dataset sintetico di **100.000 campioni** e **48 features** relative a salute, abitudini e stile di vita.  
 Obiettivo: prevedere lo stato di salute (*healthy* vs *diseased*).
 
+https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits
 ---
 
 ## 📂 Dataset
